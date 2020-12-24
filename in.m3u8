@@ -1,0 +1,1243 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:новости
+http://ip.tv.content.provider.url/435/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК-ТВ
+#EXTGRP:новости
+http://ip.tv.content.provider.url/106/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX News Extra AU
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6116/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-24 +2
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6013/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал
+#EXTGRP:новости
+http://ip.tv.content.provider.url/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-24
+#EXTGRP:новости
+http://ip.tv.content.provider.url/507/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва 24
+#EXTGRP:новости
+http://ip.tv.content.provider.url/523/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC World News
+#EXTGRP:новости
+http://ip.tv.content.provider.url/545/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24
+#EXTGRP:новости
+http://ip.tv.content.provider.url/712/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ (+2)
+#EXTGRP:новости
+http://ip.tv.content.provider.url/713/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTGRP:новости
+http://ip.tv.content.provider.url/714/index.m3u8
+#EXTINF:0 tvg-rec="3",Санкт-Петербург
+#EXTGRP:новости
+http://ip.tv.content.provider.url/715/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
+#EXTGRP:новости
+http://ip.tv.content.provider.url/746/index.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE 24 En
+#EXTGRP:новости
+http://ip.tv.content.provider.url/947/index.m3u8
+#EXTINF:0 tvg-rec="0",CNBC
+#EXTGRP:новости
+http://ip.tv.content.provider.url/962/index.m3u8
+#EXTINF:0 tvg-rec="0",Euronews
+#EXTGRP:новости
+http://ip.tv.content.provider.url/969/index.m3u8
+#EXTINF:0 tvg-rec="0",Deutsche Welle DE
+#EXTGRP:новости
+http://ip.tv.content.provider.url/1021/index.m3u8
+#EXTINF:0 tvg-rec="3",360°
+#EXTGRP:новости
+http://ip.tv.content.provider.url/825/index.m3u8
+#EXTINF:0 tvg-rec="3",Euronews Россия
+#EXTGRP:новости
+http://ip.tv.content.provider.url/828/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN
+#EXTGRP:новости
+http://ip.tv.content.provider.url/830/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN русский
+#EXTGRP:новости
+http://ip.tv.content.provider.url/831/index.m3u8
+#EXTINF:0 tvg-rec="3",RT News
+#EXTGRP:новости
+http://ip.tv.content.provider.url/840/index.m3u8
+#EXTINF:0 tvg-rec="3",CNN International Europe
+#EXTGRP:новости
+http://ip.tv.content.provider.url/842/index.m3u8
+#EXTINF:0 tvg-rec="3",RT Arabic
+#EXTGRP:новости
+http://ip.tv.content.provider.url/862/index.m3u8
+#EXTINF:0 tvg-rec="3",RT Español
+#EXTGRP:новости
+http://ip.tv.content.provider.url/863/index.m3u8
+#EXTINF:0 tvg-rec="3",Известия
+#EXTGRP:новости
+http://ip.tv.content.provider.url/2008/index.m3u8
+#EXTINF:0 tvg-rec="3",Дождь
+#EXTGRP:новости
+http://ip.tv.content.provider.url/2030/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:новости
+http://ip.tv.content.provider.url/2064/index.m3u8
+#EXTINF:0 tvg-rec="3",Вместе-РФ
+#EXTGRP:новости
+http://ip.tv.content.provider.url/2073/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi
+#EXTGRP:новости
+http://ip.tv.content.provider.url/2086/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Бизнес
+#EXTGRP:новости
+http://ip.tv.content.provider.url/5043/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky News UK
+#EXTGRP:новости
+http://ip.tv.content.provider.url/2475/index.m3u8
+#EXTINF:0 tvg-rec="0",ABC News AU
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6120/index.m3u8
+#EXTINF:0 tvg-rec="0",Band News BR
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6161/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky News Extra 2 AU
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6114/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky News Extra 3 AU
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6115/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky News Extra 3 AU
+#EXTGRP:новости
+http://ip.tv.content.provider.url/6117/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Русское кино
+#EXTGRP:кино
+http://ip.tv.content.provider.url/101/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Drama QA
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6137/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX COMEDY PL
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6107/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAXX MORE MAXX US
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6152/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX OUTER MAX US
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6154/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX MOVIEMAX US
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6155/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX ACTION MAX EAST US
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6156/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Series FR
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6008/index.m3u8
+#EXTINF:0 tvg-rec="3",Ностальгия
+#EXTGRP:кино
+http://ip.tv.content.provider.url/102/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Love
+#EXTGRP:кино
+http://ip.tv.content.provider.url/103/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Sci-Fi
+#EXTGRP:кино
+http://ip.tv.content.provider.url/110/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОМИКС
+#EXTGRP:кино
+http://ip.tv.content.provider.url/509/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСЕМЬЯ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/125/index.m3u8
+#EXTINF:0 tvg-rec="3",РОДНОЕ КИНО
+#EXTGRP:кино
+http://ip.tv.content.provider.url/126/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Action
+#EXTGRP:кино
+http://ip.tv.content.provider.url/131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинохит
+#EXTGRP:кино
+http://ip.tv.content.provider.url/516/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 2
+#EXTGRP:кино
+http://ip.tv.content.provider.url/510/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше новое кино
+#EXTGRP:кино
+http://ip.tv.content.provider.url/517/index.m3u8
+#EXTINF:0 tvg-rec="3",TV XXI
+#EXTGRP:кино
+http://ip.tv.content.provider.url/525/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/145/index.m3u8
+#EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://ip.tv.content.provider.url/146/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСЕРИЯ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/148/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Иллюзион
+#EXTGRP:кино
+http://ip.tv.content.provider.url/547/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино
+#EXTGRP:кино
+http://ip.tv.content.provider.url/549/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Russia
+#EXTGRP:кино
+http://ip.tv.content.provider.url/550/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Life
+#EXTGRP:кино
+http://ip.tv.content.provider.url/553/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино
+#EXTGRP:кино
+http://ip.tv.content.provider.url/154/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1
+#EXTGRP:кино
+http://ip.tv.content.provider.url/554/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD (SD)
+#EXTGRP:кино
+http://ip.tv.content.provider.url/555/index.m3u8
+#EXTINF:0 tvg-rec="3",AMEDIA HIT
+#EXTGRP:кино
+http://ip.tv.content.provider.url/556/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000
+#EXTGRP:кино
+http://ip.tv.content.provider.url/132/index.m3u8
+#EXTINF:0 tvg-rec="3",МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://ip.tv.content.provider.url/164/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood
+#EXTGRP:кино
+http://ip.tv.content.provider.url/557/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Entertainment Television
+#EXTGRP:кино
+http://ip.tv.content.provider.url/559/index.m3u8
+#EXTINF:0 tvg-rec="3",2x2
+#EXTGRP:кино
+http://ip.tv.content.provider.url/702/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Turbo
+#EXTGRP:кино
+http://ip.tv.content.provider.url/708/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский бестселлер
+#EXTGRP:кино
+http://ip.tv.content.provider.url/905/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман
+#EXTGRP:кино
+http://ip.tv.content.provider.url/906/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский детектив
+#EXTGRP:кино
+http://ip.tv.content.provider.url/907/index.m3u8
+#EXTINF:0 tvg-rec="3",Любимое Кино
+#EXTGRP:кино
+http://ip.tv.content.provider.url/722/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/728/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНО ТВ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/732/index.m3u8
+#EXTINF:0 tvg-rec="3",Русская Комедия
+#EXTGRP:кино
+http://ip.tv.content.provider.url/733/index.m3u8
+#EXTINF:0 tvg-rec="3",FAN
+#EXTGRP:кино
+http://ip.tv.content.provider.url/734/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ‑ХИТ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/741/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Сериал
+#EXTGRP:кино
+http://ip.tv.content.provider.url/744/index.m3u8
+#EXTINF:0 tvg-rec="3",НСТ
+#EXTGRP:кино
+http://ip.tv.content.provider.url/726/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood
+#EXTGRP:кино
+http://ip.tv.content.provider.url/719/index.m3u8
+#EXTINF:0 tvg-rec="3",ZEE TV
+#EXTGRP:кино
+http://ip.tv.content.provider.url/1001/index.m3u8
+#EXTINF:0 tvg-rec="3",Filmbox Arthouse
+#EXTGRP:кино
+http://ip.tv.content.provider.url/1071/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама
+#EXTGRP:кино
+http://ip.tv.content.provider.url/1066/index.m3u8
+#EXTINF:0 tvg-rec="3",TV1000 World Kino
+#EXTGRP:кино
+http://ip.tv.content.provider.url/1065/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Сериала
+#EXTGRP:кино
+http://ip.tv.content.provider.url/856/index.m3u8
+#EXTINF:0 tvg-rec="3",Ретро
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2018/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион +
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2038/index.m3u8
+#EXTINF:0 tvg-rec="3",Феникс плюс Кино
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2039/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Channel
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2055/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Channel HD
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2062/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносат
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinéma
+#EXTGRP:кино
+http://ip.tv.content.provider.url/5051/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Select UK
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2474/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Action HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2482/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Comedy DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2483/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2484/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney Cinemagic HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2485/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2488/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2489/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Nostalgie DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2490/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Krimi DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2491/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Comic-Helden DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2493/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Arts HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2494/index.m3u8
+#EXTINF:0 tvg-rec="3",Spiegel Geschichte HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2566/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Hits HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2486/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 1
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 2
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 3
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 4
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 5
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 6
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 7
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 8
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 9
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 10
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 11
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 12
+#EXTGRP:кино
+http://ip.tv.content.provider.url/2579/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Film HD DE
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6110/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6392/index.m3u8
+#EXTINF:0 tvg-rec="3",Trash HD
+#EXTGRP:кино
+http://ip.tv.content.provider.url/6396/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Accion ES
+#EXTGRP:кино
+http://ip.tv.content.provider.url/7065/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Comedia ES
+#EXTGRP:кино
+http://ip.tv.content.provider.url/7066/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Drama ES
+#EXTGRP:кино
+http://ip.tv.content.provider.url/7067/index.m3u8
+#EXTINF:0 tvg-rec="3",История
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/111/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/117/index.m3u8
+#EXTINF:0 tvg-rec="3",Outdoor Channel
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/119/index.m3u8
+#EXTINF:0 tvg-rec="3",Совершенно секретно
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/121/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-Культура
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/505/index.m3u8
+#EXTINF:0 tvg-rec="3",Доктор
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/512/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто 24
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/538/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/133/index.m3u8
+#EXTINF:0 tvg-rec="3",nat geographic
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/134/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/136/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/137/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/140/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто Плюс
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/151/index.m3u8
+#EXTINF:0 tvg-rec="3",Кухня ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/152/index.m3u8
+#EXTINF:0 tvg-rec="3",Время
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/552/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние Животные
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/158/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка отрыва
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/159/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2153/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Nature
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/161/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat History
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/162/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Explore
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/163/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/130/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый образовательный
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/701/index.m3u8
+#EXTINF:0 tvg-rec="3",OCEAN-TV
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/703/index.m3u8
+#EXTINF:0 tvg-rec="3",Бобёр
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/725/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоопарк
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/731/index.m3u8
+#EXTINF:0 tvg-rec="3",E
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/736/index.m3u8
+#EXTINF:0 tvg-rec="3",Морской
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/742/index.m3u8
+#EXTINF:0 tvg-rec="3",Усадьба
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/532/index.m3u8
+#EXTINF:0 tvg-rec="3",English Club TV
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/993/index.m3u8
+#EXTINF:0 tvg-rec="3",H2
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/1052/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel TV
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/1044/index.m3u8
+#EXTINF:0 tvg-rec="3",Classical Harmony
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/1037/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel EN
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/1070/index.m3u8
+#EXTINF:0 tvg-rec="3",History Russia
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/837/index.m3u8
+#EXTINF:0 tvg-rec="3",RTG TV
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/841/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый Метео
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/845/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикий
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/847/index.m3u8
+#EXTINF:0 tvg-rec="3",Spike Russia
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/849/index.m3u8
+#EXTINF:0 tvg-rec="3",travel+adventure
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/850/index.m3u8
+#EXTINF:0 tvg-rec="3",Поехали!
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/135/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2010/index.m3u8
+#EXTINF:0 tvg-rec="3",Охота и рыбалка
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2019/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕГЭ ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2020/index.m3u8
+#EXTINF:0 tvg-rec="3",HD Media
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2037/index.m3u8
+#EXTINF:0 tvg-rec="3",365 дней ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2040/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2051/index.m3u8
+#EXTINF:0 tvg-rec="3",Здоровье
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2054/index.m3u8
+#EXTINF:0 tvg-rec="3",ТАЙНА
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2059/index.m3u8
+#EXTINF:0 tvg-rec="3",Синергия ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2067/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2081/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2085/index.m3u8
+#EXTINF:0 tvg-rec="3",Оружие
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2087/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2101/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша тема
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2118/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/2155/index.m3u8
+#EXTINF:0 tvg-rec="3",Sea TV
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/5036/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние животные
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/5046/index.m3u8
+#EXTINF:0 tvg-rec="3",Е
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/5048/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕГЭ ТВ
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/6301/index.m3u8
+#EXTINF:0 tvg-rec="0",Кто куда
+#EXTGRP:познавательные
+http://ip.tv.content.provider.url/6397/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/204/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6010/index.m3u8
+#EXTINF:0 tvg-rec="0",AXN HD BR
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6162/index.m3u8
+#EXTINF:0 tvg-rec="0",BAND NEWS HD BR
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6160/index.m3u8
+#EXTINF:0 tvg-rec="0",BAND SP HD BR
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6159/index.m3u8
+#EXTINF:0 tvg-rec="0",BAND SPORTS HD BR
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6157/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Fox Movies HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6145/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN FX MOVIES HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6144/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Movies HD2 ACTION
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6134/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Movies HD3 DRAMA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6135/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Movies HD4 FAMILY
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6136/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Series HD 1
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6138/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 1 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6123/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 3 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6124/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 4 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6125/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 5 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6126/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 6 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6127/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 7 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6128/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 8 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6129/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 9 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6130/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 10 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6131/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 11 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6132/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 12 HD QA
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6133/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal Discovery HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6102/index.m3u8
+#EXTINF:0 tvg-rec="0",CANAL+ FAMILY HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6105/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Film HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6101/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ HD FR
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6007/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX THRILLERMAX HD US
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6153/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy Central HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6081/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6001/index.m3u8
+#EXTINF:0 tvg-rec="0",E! Entertainment HD RO
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6093/index.m3u8
+#EXTINF:0 tvg-rec="0",Eleven Sports 1 HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6083/index.m3u8
+#EXTINF:0 tvg-rec="0",Eleven Sports 2 HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6082/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX COMEDY HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6106/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6108/index.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE 2 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6147/index.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE 3 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6148/index.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE 4 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6149/index.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE 5 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6150/index.m3u8
+#EXTINF:0 tvg-rec="0",FRANCE O HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6151/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabel Eins HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6067/index.m3u8
+#EXTINF:0 tvg-rec="0",Kino Polska HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6088/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Bar HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6072/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Cine Doc & Roll HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6077/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Deportes 1 HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6070/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar F1 HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6071/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Estrenos HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6078/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Golf HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6075/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar LaLiga HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6073/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Liga Campeones HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6074/index.m3u8
+#EXTINF:0 tvg-rec="0",Movistar Seriesmania HD ES
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6076/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Comedy HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6000/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat 2 HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6084/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Cafe HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6085/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Film HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6086/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Play HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6087/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6057/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Maxx HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6058/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL 2 HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6065/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6062/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Nitro HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6064/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6060/index.m3u8
+#EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6091/index.m3u8
+#EXTINF:0 tvg-rec="3",Super Tennis HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6079/index.m3u8
+#EXTINF:0 tvg-rec="0",Super RTL HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6063/index.m3u8
+#EXTINF:0 tvg-rec="0",SUPER POLSAT HD PL
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6109/index.m3u8
+#EXTINF:0 tvg-rec="0",Syfy HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6092/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Comedy HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6111/index.m3u8
+#EXTINF:0 tvg-rec="0",TENNIS HD US
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6096/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Film HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6089/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Serie HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6090/index.m3u8
+#EXTINF:0 tvg-rec="0",TV3 Sport HD SK
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6080/index.m3u8
+#EXTINF:0 tvg-rec="0",Universal TV HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6094/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Golf HD SK
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6068/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat History HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6002/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Sport Premium HD SK
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6069/index.m3u8
+#EXTINF:0 tvg-rec="0",VOX HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6061/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDF HD DE
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6059/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Cinema HD FR
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6004/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Premiere
+#EXTGRP:HD
+http://ip.tv.content.provider.url/202/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Comedy
+#EXTGRP:HD
+http://ip.tv.content.provider.url/200/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Megahit
+#EXTGRP:HD
+http://ip.tv.content.provider.url/201/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Nature/History HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/203/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/205/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/206/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Арена HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/207/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/209/index.m3u8
+#EXTINF:0 tvg-rec="3",RTG HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/210/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/211/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/212/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/213/index.m3u8
+#EXTINF:0 tvg-rec="3",Конный Мир HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/214/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал КХЛ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/215/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/216/index.m3u8
+#EXTINF:0 tvg-rec="3",Mezzo Live HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/217/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/218/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/219/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/220/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Live HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/221/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/222/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/223/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/224/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/225/index.m3u8
+#EXTINF:0 tvg-rec="3",HD Life
+#EXTGRP:HD
+http://ip.tv.content.provider.url/226/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/227/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/228/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/229/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/230/index.m3u8
+#EXTINF:0 tvg-rec="3",History HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/231/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/232/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/233/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/234/index.m3u8
+#EXTINF:0 tvg-rec="3",Остросюжетное HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/904/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/911/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее
+#EXTGRP:HD
+http://ip.tv.content.provider.url/913/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6303/index.m3u8
+#EXTINF:0 tvg-rec="3",Комедийное HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/912/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинороман HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/914/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше крутое HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/915/index.m3u8
+#EXTINF:0 tvg-rec="3",Охотник и рыболов HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/917/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕДА Премиум
+#EXTGRP:HD
+http://ip.tv.content.provider.url/918/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/235/index.m3u8
+#EXTINF:0 tvg-rec="3",BRIDGE HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/236/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/237/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/239/index.m3u8
+#EXTINF:0 tvg-rec="3",Теледом
+#EXTGRP:HD
+http://ip.tv.content.provider.url/954/index.m3u8
+#EXTINF:0 tvg-rec="3",4ever Music
+#EXTGRP:HD
+http://ip.tv.content.provider.url/970/index.m3u8
+#EXTINF:0 tvg-rec="3",Настоящее время
+#EXTGRP:HD
+http://ip.tv.content.provider.url/986/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/1043/index.m3u8
+#EXTINF:0 tvg-rec="3",XSPORT HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/996/index.m3u8
+#EXTINF:0 tvg-rec="3",FAST&FUN BOX HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/1018/index.m3u8
+#EXTINF:0 tvg-rec="3",Epic Drama
+#EXTGRP:HD
+http://ip.tv.content.provider.url/1048/index.m3u8
+#EXTINF:0 tvg-rec="3",Эврика HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/908/index.m3u8
+#EXTINF:0 tvg-rec="3",Приключения HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/920/index.m3u8
+#EXTINF:0 tvg-rec="3",DocuBox HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/968/index.m3u8
+#EXTINF:0 tvg-rec="3",Страшное HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2567/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2
+#EXTGRP:HD
+http://ip.tv.content.provider.url/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/272/index.m3u8
+#EXTINF:0 tvg-rec="3",UFC ТВ
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2000/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Kids HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2001/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport Gold HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2002/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикая охота HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2004/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикая рыбалка HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2005/index.m3u8
+#EXTINF:0 tvg-rec="3",DTX HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2006/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Sport HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",Большая Азия HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2009/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2011/index.m3u8
+#EXTINF:0 tvg-rec="3",Рен ТВ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2024/index.m3u8
+#EXTINF:0 tvg-rec="3",Fine living HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2027/index.m3u8
+#EXTINF:0 tvg-rec="3",C-Music HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2028/index.m3u8
+#EXTINF:0 tvg-rec="3",H2 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2033/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion One HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2044/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion TV HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2045/index.m3u8
+#EXTINF:0 tvg-rec="3",A2 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2046/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery HD Showcase
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2058/index.m3u8
+#EXTINF:0 tvg-rec="3",360° HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2065/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая природа HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2074/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2076/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2077/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2089/index.m3u8
+#EXTINF:0 tvg-rec="3",Планета HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2090/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНО ТВ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2097/index.m3u8
+#EXTINF:0 tvg-rec="3",ID Xtra HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2102/index.m3u8
+#EXTINF:0 tvg-rec="3",Глазами туриста HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2104/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше любимое HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2106/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2107/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский иллюзион HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2114/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2115/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный int HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2124/index.m3u8
+#EXTINF:0 tvg-rec="3",Кухня ТВ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2127/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка отрыва HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2128/index.m3u8
+#EXTINF:0 tvg-rec="3",Жара HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2129/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Россия HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2130/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинокомедия HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2132/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше новое кино HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2133/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2135/index.m3u8
+#EXTINF:0 tvg-rec="3",о2тв HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2141/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2146/index.m3u8
+#EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2394/index.m3u8
+#EXTINF:0 tvg-rec="3",Clubbing TV HD RU
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2395/index.m3u8
+#EXTINF:0 tvg-rec="3",Fuel TV HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2396/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Губерния 33 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2400/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 3 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/290/index.m3u8
+#EXTINF:0 tvg-rec="3",Jurnal TV HD MD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5008/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5031/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5033/index.m3u8
+#EXTINF:0 tvg-rec="3",Е HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5035/index.m3u8
+#EXTINF:0 tvg-rec="3",Арсенал HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5044/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5045/index.m3u8
+#EXTINF:0 tvg-rec="3",Gametoon HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5049/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5052/index.m3u8
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5053/index.m3u8
+#EXTINF:0 tvg-rec="3",День Победы HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5054/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Channel HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/5063/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2430/index.m3u8
+#EXTINF:0 tvg-rec="3",Сочи HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2433/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2434/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2436/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2438/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2439/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Мужское HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2440/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2441/index.m3u8
+#EXTINF:0 tvg-rec="3",AIVA HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2442/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Serial HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/2443/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6299/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто Плюс HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6369/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6370/index.m3u8
+#EXTINF:0 tvg-rec="3",Spike HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6371/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Explore HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6381/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносемья HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6382/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносвидание HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6383/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6384/index.m3u8
+#EXTINF:0 tvg-rec="3",Театр HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6385/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Action HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6386/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6387/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 Русское кино HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6388/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Life HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6389/index.m3u8
+#EXTINF:0 tvg-rec="3",Museum HD
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6390/index.m3u8
+#EXTINF:0 tvg-rec="3",HGTV HD RU
+#EXTGRP:HD
+http://ip.tv.content.provider.url/6391/index.m3u8

@@ -1,0 +1,181 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-rec="3",Первый HD
+#EXTGRP:Новости
+http://ip.tv.content.provider.url/204/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия HD
+#EXTGRP:Новости
+http://ip.tv.content.provider.url/205/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD
+#EXTGRP:Новости
+http://ip.tv.content.provider.url/213/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал
+#EXTGRP:Новости
+http://ip.tv.content.provider.url/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва 24
+#EXTGRP:Новости
+http://ip.tv.content.provider.url/523/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-24
+#EXTGRP:Новости
+http://ip.tv.content.provider.url/507/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/133/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/136/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/137/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel HD
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/227/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2089/index.m3u8
+#EXTINF:0 tvg-rec="3",Планета HD
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2090/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel HD
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/233/index.m3u8
+#EXTINF:0 tvg-rec="3",История
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/111/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/117/index.m3u8
+#EXTINF:0 tvg-rec="3",Outdoor Channel
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/119/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-Культура
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/505/index.m3u8
+#EXTINF:0 tvg-rec="3",Доктор
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/512/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто 24
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/538/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто Плюс
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/151/index.m3u8
+#EXTINF:0 tvg-rec="3",Кухня ТВ
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/152/index.m3u8
+#EXTINF:0 tvg-rec="3",Время
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/552/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние животные
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/5046/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка отрыва
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/159/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2153/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Nature
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/161/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat History
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/162/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Explore
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/163/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/130/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый образовательный
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/701/index.m3u8
+#EXTINF:0 tvg-rec="3",OCEAN-TV
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/703/index.m3u8
+#EXTINF:0 tvg-rec="3",Бобёр
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/725/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоопарк
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/731/index.m3u8
+#EXTINF:0 tvg-rec="3",E
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/736/index.m3u8
+#EXTINF:0 tvg-rec="3",Морской
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/742/index.m3u8
+#EXTINF:0 tvg-rec="3",Усадьба
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/532/index.m3u8
+#EXTINF:0 tvg-rec="3",English Club TV
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/993/index.m3u8
+#EXTINF:0 tvg-rec="3",H2
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/1052/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel TV
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/1044/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2101/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша тема
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2118/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/2155/index.m3u8
+#EXTINF:0 tvg-rec="3",Sea TV
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/5036/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние животные
+#EXTGRP:Природа и познавательное
+http://ip.tv.content.provider.url/5046/index.m3u8
+#EXTINF:0 tvg-rec="3",Комедийное HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/912/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/6392/index.m3u8
+#EXTINF:0 tvg-rec="3",Остросюжетное HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/904/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/911/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/6303/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинороман HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/914/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/223/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/224/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносемья HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/6382/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/2434/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/5052/index.m3u8
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/5053/index.m3u8
+#EXTINF:0 tvg-rec="3",День Победы HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/5054/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 Русское кино HD
+#EXTGRP:Кино
+http://ip.tv.content.provider.url/6388/index.m3u8
